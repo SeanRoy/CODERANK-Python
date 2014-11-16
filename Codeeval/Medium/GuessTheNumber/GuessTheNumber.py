@@ -1,7 +1,6 @@
 __author__ = 'Sean'
 
 import fileinput
-import math
 
 def main():
     for line in fileinput.input():
